@@ -1,0 +1,13 @@
+/* TelevisorComponent.css */
+
+@font-face {
+    font-family: 'DS-Digital';
+    src: url('./fonts/DS-DIGI.TTF') format('truetype'); /* Ajusta la ruta según la ubicación de tu archivo de fuente */
+  }
+  
+  /* Aplica la fuente a los elementos de texto necesarios */
+  .televisor-text {
+    font-family: 'DS-Digital', sans-serif;
+ /* Aplica la fuente digital a los elementos con clase "televisor-text" */
+  }
+  
